@@ -1,3 +1,7 @@
+Note from Peisen:
+This is a mini-project I wrote in Python as one of ECE 358 Computer Networks' labs. It is designed to simulate M/M/1 and M/M/1/K queues in network. Further details about the lab can be found in the attached lab manual (LAB1.pdf), while instructions on how to run the simulator can be found below.
+
+////////////////////////////////////
 How to run our code:
 On eceUbuntu (or some other (linux) machine with python and numpy installed) run the command:
 *to be more specific, we used ecetesla3, so if you can't run the script on other machines, you may try to switch to ecetesla3
