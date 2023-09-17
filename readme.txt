@@ -1,4 +1,4 @@
-Note from Peisen:
+##Note from Peisen:
 This is a mini-project I wrote in Python as one of ECE 358 Computer Networks' labs. It is designed to simulate M/M/1 and M/M/1/K queues in network. Further details about the lab can be found in the attached lab manual (LAB1.pdf) and lab report (ECE358-F22-LAB Group67 Lab1 Report.pdf), while instructions on how to run the simulator can be found below. (You may also want to refer to howtorun.png.)
 
 ////////////////////////////////////
